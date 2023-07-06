@@ -7,9 +7,9 @@ Echter, op dit moment kunnen we nog geen functionele waarde aan deze animaties t
 
 
 # Demos
-https://welgeen.nl/mp01/v01.php 
-https://welgeen.nl/mp01/v02.php 
-https://welgeen.nl/mp01/v03.php 
-https://welgeen.nl/mp01/v04.php 
-https://welgeen.nl/mp01/v05.php 
-https://welgeen.nl/mp01/v06.php 
+https://welgeen.nl/mp01/v01.php   
+https://welgeen.nl/mp01/v02.php   
+https://welgeen.nl/mp01/v03.php   
+https://welgeen.nl/mp01/v04.php   
+https://welgeen.nl/mp01/v05.php   
+https://welgeen.nl/mp01/v06.php   
